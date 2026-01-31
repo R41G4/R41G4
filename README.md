@@ -17,13 +17,59 @@ Experiencia en migración de <strong>Bootstrap 3–4</strong> hacia enfoques mod
 
 ## 🛠️ Tech Stack
 <div align="center">
-
-| Frontend & Development | Backend & Runtime | Security Tools | Tools & Platforms |
-|-----------------------|-------------------|----------------|-------------------|
-| <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> | <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" /> <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> | <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> | <img src="https://img.shields.io/badge/Nessus-00A8E1?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" /> <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" /> | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> |
-| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> | | | <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal" /> |
-
+  <table style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <th style="border: 1px solid #30363d; padding: 10px; text-align: center;">Frontend & Development</th>
+      <th style="border: 1px solid #30363d; padding: 10px; text-align: center;">Backend & Runtime</th>
+      <th style="border: 1px solid #30363d; padding: 10px; text-align: center;">Security Tools</th>
+      <th style="border: 1px solid #30363d; padding: 10px; text-align: center;">Tools & Platforms</th>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #30363d; padding: 10px; text-align: center;">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      </td>
+      <td style="border: 1px solid #30363d; padding: 10px; text-align: center;">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      </td>
+      <td style="border: 1px solid #30363d; padding: 10px; text-align: center;">
+        <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+        <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+      </td>
+      <td style="border: 1px solid #30363d; padding: 10px; text-align: center;">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #30363d; padding: 10px; text-align: center;">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      </td>
+      <td style="border: 1px solid #30363d; padding: 10px; text-align: center;">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+      </td>
+      <td style="border: 1px solid #30363d; padding: 10px; text-align: center;">
+        <img src="https://img.shields.io/badge/Nessus-00A8E1?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
+        <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+      </td>
+      <td style="border: 1px solid #30363d; padding: 10px; text-align: center;">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #30363d; padding: 10px; text-align: center;">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      </td>
+      <td style="border: 1px solid #30363d; padding: 10px; text-align: center;"></td>
+      <td style="border: 1px solid #30363d; padding: 10px; text-align: center;"></td>
+      <td style="border: 1px solid #30363d; padding: 10px; text-align: center;">
+        <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
