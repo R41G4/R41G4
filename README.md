@@ -29,20 +29,15 @@ Experiencia en migración de <strong>Bootstrap 3–4</strong> hacia enfoques mod
 ---
 
 ## 🏆 Proyectos Destacados
-<!--
-| Proyecto | Descripción | Tecnologías | Security Features |
+
+| Proyecto | Descripción | Tecnologías | Repositorio y Documentación |
 |----------|-------------|-------------|-------------------|
-| **🔐 Sistema de Autenticación Segura** | Plataforma de autenticación con validaciones de seguridad avanzadas | React, Node.js, JWT | OWASP ZAP scans, análisis SonarQube |
-| **⚛️ Dashboard de Monitoreo de Seguridad** | Panel para visualización de métricas de seguridad en tiempo real | React, Chart.js, Django | Integración con Nessus, reporting automatizado |
-| **🛡️ Scanner de Vulnerabilidades Web** | Herramienta interna para análisis de seguridad de aplicaciones | Python, Django, React | Nmap integration, OWASP Top 10 checks |
-
----
--->
-
 | **📊 Gestión de Gastos** | Aplicación web completa para gestión de gastos personales con estadísticas en tiempo real y persistencia local. | HTML5, CSS3 (BEM, Grid), JavaScript (ES6+), localStorage | [![Código](https://img.shields.io/badge/Repo_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R41G4-Portfolio/web_project_expenses_es) • [![Docs](https://img.shields.io/badge/Docs_Técnicas-4A90E2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://r41g4.github.io/documentacion/gastos/) |
 | **📸 Galería "Around"** | Frontend de galería social interactiva con likes, perfil de usuario y consumo de API REST, desarrollado con Programación Orientada a Objetos. | HTML5, CSS3 (BEM), JavaScript (POO, Módulos ES6), REST API (Fetch) | [![Código](https://img.shields.io/badge/Repo_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R41G4-Portfolio/web_project_around_es) • [![Docs](https://img.shields.io/badge/Docs_Técnicas-4A90E2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://r41g4.github.io/documentacion/viajes/) |
 | **📚 Biblioteca Triple Peaks** | Página web estática y responsive para una biblioteca, enfocada en HTML semántico, CSS Flexbox y metodología BEM. | HTML5 Semántico, CSS3 (Flexbox, Posicionamiento), Metodología BEM | [![Código](https://img.shields.io/badge/Repo_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R41G4-Portfolio/web_project_library_es) • [![Docs](https://img.shields.io/badge/Docs_Técnicas-4A90E2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://r41g4.github.io/documentacion/biblioteca/) |
+
 ---
+
 ## 📫 Contacto
 <div align="center">
 
