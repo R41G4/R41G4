@@ -4,8 +4,6 @@
 
 ## Fullstack Developer | Security-Aware
 
----
-
 ## 📌 Sobre mí
 <div align="justify">
 Soy un <strong>Software Developer</strong> con experiencia en el desarrollo y mantenimiento de aplicaciones web de alto tráfico para plataformas públicas de alcance nacional. Actualmente estoy enfocando mi desarrollo profesional hacia el <strong>backend</strong>, trabajando principalmente con <strong>Node.js, Express, MongoDB y Python</strong>.
