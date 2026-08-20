@@ -35,7 +35,7 @@ Los siguientes proyectos representan el enfoque actual de mi desarrollo hacia el
 | Proyecto | Descripción | Tecnologías | Enlaces |
 |----------|-------------|-------------|---------|
 | **📁 File Renaming** | Sistema backend para gestionar la carga, validación, organización y procesamiento de documentos a partir de plantillas Excel. | Node.js, Express, MongoDB, REST API | Próximamente |
-| **🏠 BienesRaices** | Aplicación web orientada a la gestión de información inmobiliaria y servicios asociados. | Node.js, Express, MongoDB, React | Próximamente |
+| **🏠 BienesRaices** | Aplicación web orientada a la gestión de información inmobiliaria y servicios asociados. | Node.js, Express, Sequelize, MySQL, Pug, React | Próximamente |
 | **🛡️ Moonguard** | Aplicación MERN orientada a la gestión y protección de información relacionada con credenciales comprometidas. | Node.js, Express, MongoDB, React | <a href="https://github.com/R41G4-Portfolio/pwnedguard-MERN" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Repo_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Código"></a> |
 
 ---
