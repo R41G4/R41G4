@@ -6,7 +6,7 @@
 
 ## 📌 Sobre mí
 <div align="justify">
-Soy un <strong>Software Developer</strong> con experiencia en el desarrollo y mantenimiento de aplicaciones web de alto tráfico para plataformas públicas de alcance nacional. Actualmente estoy enfocando mi desarrollo profesional hacia el <strong>backend</strong>, trabajando principalmente con <strong>Node.js, Express, MongoDB y Python</strong>.
+Soy un <strong>Software Developer</strong> con experiencia en el desarrollo y mantenimiento de aplicaciones web de alto tráfico para plataformas públicas de alcance nacional. Actualmente estoy enfocando mi desarrollo profesional hacia el <strong>backend</strong>, trabajando principalmente con <strong>Desarrolo con Javascript con: Node.js, Express, Python con: Django, FastAPI, Base de datos con: MongoDB, Postgresql y Mysql</strong>.
 <br/><br/>
 Mi experiencia previa en frontend con <strong>React, JavaScript, HTML5 y CSS3</strong> me permite comprender el ciclo completo de una aplicación web y la interacción entre sus diferentes componentes. En el desarrollo backend he trabajado en <strong>separación de responsabilidades, diseño de APIs REST, persistencia de datos, autenticación, autorización, gestión de archivos, auditoría y trazabilidad</strong>.
 <br/><br/>
@@ -34,7 +34,7 @@ Los siguientes proyectos representan el enfoque actual de mi desarrollo hacia el
 
 | Proyecto | Descripción | Tecnologías | Enlaces |
 |----------|-------------|-------------|---------|
-| **📁 File Renaming** | Sistema backend para gestionar la carga, validación, organización y procesamiento de documentos a partir de plantillas Excel. | Node.js, Express, MongoDB, REST API | <a href="https://r41g4.github.io/documentacion/file-renamer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docs_Técnicas-4A90E2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentación general"></a>|
+| **📁 File Renaming** | Sistema backend para gestionar la carga, validación, organización y procesamiento de documentos a partir de plantillas Excel. | Node.js, Express, MongoDB, REST API | <a href="https://r41g4.github.io/documentacion/file-renamer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Documentacion_general-4A90E2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentación general"></a>|
 | **🏠 BienesRaices** | Aplicación web orientada a la gestión de información inmobiliaria y servicios asociados. | Node.js, Express, Sequelize, MySQL, Pug, React | Próximamente |
 | **🛡️ Moonguard** | Aplicación MERN orientada a la gestión y protección de información relacionada con credenciales comprometidas. | Node.js, Express, MongoDB, React | <a href="https://github.com/R41G4-Portfolio/pwnedguard-MERN" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Repo_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Código"></a> |
 
