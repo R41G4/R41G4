@@ -2,15 +2,17 @@
 
 # 👨‍💻 Luis Angel García Ramos
 
-## 🛡️ Frontend Developer | Security Focused
+## 💻 Software Developer | Backend & Security-Aware
 
 ---
 
 ## 📌 Sobre mí
 <div align="justify">
-Soy un <strong>Frontend React Developer</strong> con experiencia desarrollando y manteniendo aplicaciones web de alto tráfico para plataformas públicas de alcance nacional. Especializado en <strong>React (16–18), JavaScript (ES6+), HTML5 y CSS3</strong>, con enfoque en escalabilidad, accesibilidad y mantenibilidad. 
+Soy un <strong>Software Developer</strong> con experiencia en el desarrollo y mantenimiento de aplicaciones web de alto tráfico para plataformas públicas de alcance nacional. He trabajado principalmente con <strong>JavaScript, React y Node.js</strong>, y actualmente estoy orientando mi desarrollo profesional hacia el <strong>backend y el desarrollo de aplicaciones con enfoque en seguridad</strong>.
 <br/><br/>
-Experiencia en migración de <strong>Bootstrap 3–4</strong> hacia enfoques modernos de diseño frontend, incorporando <strong>Tailwind CSS</strong> como parte de procesos de modernización. <strong>Perfil security-aware</strong>, con práctica en análisis de vulnerabilidades mediante <strong>OWASP ZAP y SonarQube</strong>. Profesional analítico, responsable y adaptable a entornos críticos.
+Mi experiencia incluye desarrollo frontend, migración y modernización de aplicaciones, construcción de APIs y participación en procesos de revisión de seguridad. Actualmente profundizo en <strong>Node.js, Python, FastAPI y arquitectura backend</strong>, aplicando principios de separación de responsabilidades, validación, control de acceso, trazabilidad y seguridad por diseño.
+<br/><br/>
+Mi formación en <strong>Ciberseguridad</strong> complementa el desarrollo de software con una perspectiva orientada a identificar riesgos, reducir vulnerabilidades y comprender las implicaciones de seguridad de las decisiones técnicas.
 </div>
 
 ---
@@ -30,11 +32,19 @@ Experiencia en migración de <strong>Bootstrap 3–4</strong> hacia enfoques mod
 
 ## 🏆 Proyectos Destacados
 
+Los proyectos destacados corresponden a trabajos que representan mi experiencia y evolución actual en desarrollo de software, particularmente en backend, arquitectura y desarrollo con enfoque en seguridad.
+
+---
+
+## 🎨 Frontend
+
+Proyectos desarrollados principalmente durante mi etapa de especialización en desarrollo frontend. Se conservan como evidencia de experiencia con desarrollo web, JavaScript, diseño responsive, consumo de APIs y diferentes enfoques de organización del código.
+
 | Proyecto | Descripción | Tecnologías | Enlaces |
 |----------|-------------|-------------|---------|
-| **📊 Gestión de Gastos** | Aplicación web completa para gestión de gastos personales con estadísticas en tiempo real y persistencia local. | HTML5, CSS3 (BEM, Grid), JavaScript (ES6+), localStorage | <a href="https://github.com/R41G4-Portfolio/web_project_expenses_es" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Repo_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Código"></a>  <a href="https://r41g4.github.io/documentacion/gastos/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docs_Técnicas-4A90E2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs Técnicas"></a>  <a href="https://r41g4-portfolio.github.io/web_project_expenses_es/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=github-pages&logoColor=white" alt="Live Demo"></a> |
-| **📸 Galería "Around"** | Frontend de galería social interactiva con likes, perfil de usuario y consumo de API REST, desarrollado con Programación Orientada a Objetos. | HTML5, CSS3 (BEM), JavaScript (POO, Módulos ES6), REST API (Fetch) | <a href="https://github.com/R41G4-Portfolio/web_project_around_es" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Repo_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Código"></a>  <a href="https://r41g4.github.io/documentacion/viajes/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docs_Técnicas-4A90E2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs Técnicas"></a>  <a href="https://r41g4-portfolio.github.io/web_project_around_es/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=github-pages&logoColor=white" alt="Live Demo"></a> |
-| **📚 Biblioteca Triple Peaks** | Página web estática y responsive para una biblioteca, enfocada en HTML semántico, CSS Flexbox y metodología BEM. | HTML5 Semántico, CSS3 (Flexbox, Posicionamiento), Metodología BEM | <a href="https://github.com/R41G4-Portfolio/web_project_library_es" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Repo_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Código"></a>  <a href="https://r41g4.github.io/documentacion/biblioteca/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docs_Técnicas-4A90E2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs Técnicas"></a>  <a href="https://r41g4-portfolio.github.io/web_project_library_es/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=github-pages&logoColor=white" alt="Live Demo"></a> |
+| **📊 Gestión de Gastos** | Aplicación web completa para gestión de gastos personales con estadísticas en tiempo real y persistencia local. | HTML5, CSS3 (BEM, Grid), JavaScript (ES6+), localStorage | <a href="https://github.com/R41G4-Portfolio/web_project_expenses_es" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Repo_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Código"></a> <a href="https://r41g4.github.io/documentacion/gastos/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docs_Técnicas-4A90E2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs Técnicas"></a> <a href="https://r41g4-portfolio.github.io/web_project_expenses_es/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=github-pages&logoColor=white" alt="Live Demo"></a> |
+| **📸 Galería "Around"** | Frontend de galería social interactiva con likes, perfil de usuario y consumo de API REST, desarrollado con Programación Orientada a Objetos. | HTML5, CSS3 (BEM), JavaScript (POO, Módulos ES6), REST API (Fetch) | <a href="https://github.com/R41G4-Portfolio/web_project_around_es" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Repo_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Código"></a> <a href="https://r41g4.github.io/documentacion/viajes/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docs_Técnicas-4A90E2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs Técnicas"></a> <a href="https://r41g4-portfolio.github.io/web_project_around_es/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=github-pages&logoColor=white" alt="Live Demo"></a> |
+| **📚 Biblioteca Triple Peaks** | Página web estática y responsive para una biblioteca, enfocada en HTML semántico, CSS Flexbox y metodología BEM. | HTML5 Semántico, CSS3 (Flexbox, Posicionamiento), Metodología BEM | <a href="https://github.com/R41G4-Portfolio/web_project_library_es" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Repo_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Código"></a> <a href="https://r41g4.github.io/documentacion/biblioteca/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docs_Técnicas-4A90E2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs Técnicas"></a> <a href="https://r41g4-portfolio.github.io/web_project_library_es/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=github-pages&logoColor=white" alt="Live Demo"></a> |
 
 ---
 
